@@ -1,0 +1,273 @@
+#allweb
+{
+overflow-x:auto;
+overflow-y:hidden;
+margin:0 auto;
+padding:0 auto;
+}
+
+#bg
+{
+overflow-x:auto;
+overflow-y:hidden;
+border:1px solid black;
+background:url('pic/hero-bg.jpg');
+box-sizing:border-box;
+background-repeat:no-repeat;
+background-size:cover;
+background-position:center;
+}
+.m
+{
+background:rgba(45,52,54,0.7);
+
+}
+#hero
+{
+height:450px;
+}
+
+a:hover
+{
+	background:#e67e22;
+	border-radius:3px 3px 3px 3px;
+}
+
+#content
+{
+	margin-bottom:10rem;
+	margin-left:6rem;
+}
+
+.container
+{
+overflow-x:auto;
+overflow-y:hidden;
+/*border:1px solid black;*/
+}
+
+.logo-img
+{
+	height:40px;
+	width:100px;
+}
+
+#set
+{
+overflow-x:auto;
+overflow-y:hidden;
+/*border:1px solid black;*/
+background:rgba(189,195,199,0.2);
+}
+
+.card-shadow
+{
+box-shadow:	-5px 5px 5px gray ;
+}
+
+.heading1
+{
+	font-weight:bold;
+	font-style:italic;
+}
+
+/* Bg Image filter*/
+#image
+{
+height:450px;
+background:url('pic/f2.jpg');
+box-sizing:border-box;
+background-repeat:no-repeat;
+background-size:cover;
+background-position:center;
+}
+
+.txt
+{
+	text-shadow:5px 5px 5px gray;
+	margin-top:200px;
+	font-weight:bold;
+}
+
+#icn
+{
+	text-shadow:5px 5px 5px gray;
+}
+
+#headservice
+{
+padding:20px;
+}
+
+
+#head
+{
+	
+	background:rgba(189, 195, 199,0.2);
+	font-size:16px;
+	padding:20px;
+	text-shadow:3px 3px 3px gray;
+	
+
+}
+
+/*--2-boxes --*/
+
+#btn
+{
+	background:linear-gradient(gray,maroon,white);
+	display:inline-block;
+}
+
+#head1
+{
+	background:rgba(18, 137, 167,0.1);
+	padding:10px;
+	width:450px;
+	border-radius:3px 3px 3px 3px;
+}
+#img1
+{
+position:absolute;
+margin-left:150px;
+
+}
+#img2
+{
+	margin-top:80px;
+position:relative;
+}
+
+#img11
+{
+	box-shadow:-3px -3px 3px gray;
+}
+
+/*--Frequently Asked question*/
+
+#p1
+{
+	font-size:30px;
+	
+}
+
+#bxshd
+{
+	box-shadow:2px 2px 6px gray;
+	
+}
+
+/*--Team--*/
+#img-hover
+{
+	box-shadow:2px 7px 2px gray;
+	
+}
+#img-hover:hover
+{
+	scale:0.8;
+	transition:5s;
+}
+/*-call to action */
+
+
+#bckgrnd
+{
+overflow-x:auto;
+overflow-y:hidden;
+height:450px;
+width:100%;
+background:url('pic/cta-bg.jpg');
+box-sizing:border-box;
+background-repeat:no-repeat;
+background-size:cover;
+background-position:center;
+position:relative;
+}
+
+.abs
+{
+	margin-left:-12px;
+position:absolute;
+width:100%;
+overflow-x:auto;
+overflow-y:hidden;
+height:450px;
+background:rgba(47, 53, 66,0.4);
+}
+
+.txt1
+{
+margin-top:150px;
+
+}
+
+#btn:hover
+{
+background:gray;
+color:white;	
+}
+
+#card1
+{
+	height:470px;
+	width:300px;
+}
+
+
+
+/*--Contact Us--*/
+#bc
+{
+background:rgba(241, 242, 246,0.5);
+	
+}
+
+#area
+{
+	border:1px solid #dfe4ea;
+	border-radius:2px 2px 2px 2px;
+}
+
+/*--FOoter--*/
+#bgg
+{
+	background:rgba(241, 242, 246,0.5);
+
+}
+
+.fa1
+{
+	border:1px solid gray;
+	border-radius:50%;
+	height:40px;
+	width:40px;
+	padding:10px;
+	float:left;
+	
+}
+
+#lst
+{
+	list-style-type:none;
+	text-decoration:none;
+}
+
+ul,li,a
+{
+
+	text-decoration:none;
+	
+}
+
+#anc
+{
+color:gray;	
+}
+
+/*--Footer Last--*/
+#bggg
+{
+		background:rgba(116, 125, 140,0.5);
+
+}
