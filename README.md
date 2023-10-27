@@ -1,4 +1,4 @@
-<p align="center"><img src="ScreenShot/php.jpeg" width="350" hight="120" /a></p><br>
+<p align="center"><img src="ScreenShot/php.jpg" width="350" hight="120" /a></p><br>
 <h1>Frontend Website</h1>
  <b>"Append is a dynamic and visually appealing frontend website crafted using cutting-edge technologies – HTML5, CSS3, and JavaScript. 
    With seamless navigation and stunning design, this website offers a delightful user experience. Users can explore interactive interfaces,
